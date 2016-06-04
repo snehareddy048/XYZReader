@@ -27,6 +27,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
+import com.example.xyzreader.util.SupportUtils;
 
 /**
  * A fragment representing a single Article detail screen. This fragment is
@@ -179,10 +180,11 @@ public class ArticleDetailFragment extends Fragment implements
 
         TextView titleView = (TextView) mRootView.findViewById(R.id.article_title);
         TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
+        SupportUtils.setTypeFace(titleView,SupportUtils.ROBOTO_BOLD);
+        SupportUtils.setTypeFace(bylineView,SupportUtils.ROBOTO_REGULAR);
         bylineView.setMovementMethod(new LinkMovementMethod());
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
-        bodyView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf"));
-
+        SupportUtils.setTypeFace(titleView,SupportUtils.ROBOTO_MEDIUM);
         if (mCursor != null) {
             mRootView.setAlpha(0);
             mRootView.setVisibility(View.VISIBLE);

@@ -25,6 +25,7 @@ import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
 import com.example.xyzreader.data.UpdaterService;
+import com.example.xyzreader.util.SupportUtils;
 
 /**
  * An activity representing a list of Articles. This activity has different presentations for
@@ -177,6 +178,9 @@ public class ArticleListActivity extends AppCompatActivity implements
             thumbnailView = (DynamicHeightNetworkImageView) view.findViewById(R.id.thumbnail);
             titleView = (TextView) view.findViewById(R.id.article_title);
             subtitleView = (TextView) view.findViewById(R.id.article_subtitle);
+            SupportUtils.setTypeFace(titleView,SupportUtils.ROBOTO_MEDIUM);
+            SupportUtils.setTypeFace(subtitleView,SupportUtils.ROBOTO_REGULAR);
+
         }
     }
 }
