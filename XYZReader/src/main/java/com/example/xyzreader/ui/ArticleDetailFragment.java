@@ -184,7 +184,7 @@ public class ArticleDetailFragment extends Fragment implements
         SupportUtils.setTypeFace(bylineView,SupportUtils.ROBOTO_REGULAR);
         bylineView.setMovementMethod(new LinkMovementMethod());
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
-        SupportUtils.setTypeFace(titleView,SupportUtils.ROBOTO_MEDIUM);
+        SupportUtils.setTypeFace(titleView,SupportUtils.ROBOTO_REGULAR);
         if (mCursor != null) {
             mRootView.setAlpha(0);
             mRootView.setVisibility(View.VISIBLE);
