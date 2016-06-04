@@ -2,116 +2,109 @@
 <items version="2" >
 
     <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-8c2f7455ef7312097adcf980e13eb2204a761a16.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-3c78d86ead1e125316e83419fec874d366e6d15c.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d6a64bcac7c47d0dfc404498fa2f126f0421984f.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-230235381a6ec7ee4590f94993bd70f46d1d4b49.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-fb4bef74036ab195e81a274dd32ca4283549f403.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-93ad538d6ac2ef00a62b3791e5d504fd4440aa60.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.1/classes.jar"
-        jumboMode="false"
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-fb116f09c9afd4b8259c07b2ca37a37f0221c9f8.jar" />
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.0.1_f451cee41156503850c38c7bd5cdab0cbb9cdd59/classes.dex" />
     </item>
     <item
-        jar="/Users/ajr617/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
-        jumboMode="false"
+        jar="/Users/snehaanandyeluguri/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-988ee9ac0ed2966fc85760427983accd52890518.jar" />
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_ba21f61b3ed25226d6f0ca5eedb75ec2c3d77fa8/classes.dex" />
     </item>
     <item
-        jar="/Users/ajr617/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        jar="/Users/snehaanandyeluguri/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-bda267485b9390d79fe4715a2fff45cae34ee738.jar" />
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_b83843895a3bebd7baebff43d450969127969aff/classes.dex" />
     </item>
     <item
-        jar="/Users/ajr617/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-1277ac4e9ef4fbe21ab60afed06d9402c6b91ea5.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-8c2f7455ef7312097adcf980e13eb2204a761a16.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-988ee9ac0ed2966fc85760427983accd52890518.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-efb82b51f89ca43b528b36892695479642cbb13d.jar" />
-    </item>
-    <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/classes.jar"
-        jumboMode="false"
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4c41ee82307e3a4cb55a93bbb844efd8b10b72da.jar" />
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_89816286bf709eb70b8122f4d1f5668fe533a3f9/classes.dex" />
     </item>
     <item
-        jar="/Users/ajr617/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-bda267485b9390d79fe4715a2fff45cae34ee738.jar" />
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.0.1_22824c9edda3fce4b79cf0b6465deff22ccc4b74/classes.dex" />
     </item>
     <item
-        jar="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/classes.jar"
-        jumboMode="false"
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/Users/ajr617/Desktop/personal/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-40af2d7cd98aeca999c52b781cc71ae186ebb9d3.jar" />
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.1_aedafb5e255cf375f302d1848078c4a1314af112/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f806d42b613a0d0afa5401d7d6f36bcf20f1edd2">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98620531e93b4cc9279060c16d2d8f5336faa271/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_f1b32daca174a80b459df85885df4f039bb86afe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_96fc810325b91a12fe7523d7e72bd3a29b685cd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_d4c34625928c10c3cddc9c743de82b1e8d010f30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="afce579419e350ae71e06ed1577159c520981851">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c944e43ab22c629ad076c732f6ad8f8af833a645/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_810fcefc84a6789eab4baef60c87619b1dc41811/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_c4189f618376f74c4ebc6c725c29da6bdf55355f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_5ed0bd43581b5f0cb5bdff68742e3a8bd84077de/classes.dex" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_71b947eb9f55e2cf07813f3b695df811128abfce/classes.dex" />
     </item>
 
 </items>
