@@ -25,4 +25,6 @@
     <color name="primary_color">#FF5722</color>
     <color name="secondary_color">#D84315</color>
     <color name="floating_color">#00B0FF</color>
+
+    <color name="grey">#6000</color>
 </resources>
